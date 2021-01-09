@@ -1,0 +1,14 @@
+.bg{
+    background-image: url(/);
+    background-color: blueviolet;
+    background-size: 100%;
+}
+
+.form-container{
+    position: absolute;
+    top: 17vh;
+    background: brown ;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px  black;
+}
